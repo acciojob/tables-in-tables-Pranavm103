@@ -1,8 +1,11 @@
 
 /* Your CSS Code here. */
-table td {
+table{
 	border: 2px solid black;
 }
-tr th{
+td{
+	border: 2px solid black;
+}
+tr th {
 	border: 2px solid black;
 }
